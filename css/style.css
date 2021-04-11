@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: navy;
+    color: white;
+    height: 100px;
+    text-align: center;
+
+}
+.nav{
+    background-color: mediumvioletred;
+    height: 70px;
+    text-align: center;
+
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: mistyrose;
+    height: 400px;
+    width: 60%;
+    text-align: center;
+    float: left;
+
+}
+.right{
+    background-color: palegreen;
+    height: 400px;
+    width: 40%;
+    text-align: center;
+    float: right;
+
+}
+.article_1{
+    background-color: royalblue;
+    height: 250px;
+
+}
+.article_2{
+    background-color: tomato;
+    height: 150px;
+
+}
+.section{
+    background-color: mediumspringgreen;
+    height: 300px;
+
+
+}
+.aside{
+    background-color: darkorchid;
+    height: 100px;
+
+}
+.footer{
+    background-color: darkred;
+    height: 100px;
+    text-align: center;
+}
